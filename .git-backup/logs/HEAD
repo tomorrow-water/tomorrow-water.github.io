@@ -1,0 +1,69 @@
+0000000000000000000000000000000000000000 fa8cffac862a5d14a396e32d27a3a2032e43fff3 Ju Hyeon Park <wheredidjupark@gmail.com> 1465256718 -0700	commit (initial): intermediate commit
+fa8cffac862a5d14a396e32d27a3a2032e43fff3 ad3bbd8403deaf73856dc47ea38e4295964b8a13 Ju Hyeon Park <wheredidjupark@gmail.com> 1465261382 -0700	commit: temporarilyl omitted Google Map
+ad3bbd8403deaf73856dc47ea38e4295964b8a13 ab57b81a11b70820e0d0c802432bea3cbdb08d72 Ju Hyeon Park <wheredidjupark@gmail.com> 1465262207 -0700	commit: changed Google Map to locate BKT
+ab57b81a11b70820e0d0c802432bea3cbdb08d72 0e0aa4f00db02f99c40f3235fbbeac43feb3e230 Ju Hyeon Park <wheredidjupark@gmail.com> 1465265115 -0700	commit: removed water & energy table on index.html
+0e0aa4f00db02f99c40f3235fbbeac43feb3e230 3f0974dbe10e607d9afd0fe9b53f26a9da46724b Ju Hyeon Park <wheredidjupark@gmail.com> 1465413078 -0700	commit: change contact
+3f0974dbe10e607d9afd0fe9b53f26a9da46724b b4865341a290135b8bdf03e9d6c24bb66702e137 Ju Hyeon Park <wheredidjupark@gmail.com> 1465420347 -0700	commit: changes
+b4865341a290135b8bdf03e9d6c24bb66702e137 6dd94f5bf312c5bc2774d2505f5cdafc9c6b4aed Ju Hyeon Park <wheredidjupark@gmail.com> 1465428049 -0700	commit: changed today-water and tomorrow-water; emphasis on today water table
+6dd94f5bf312c5bc2774d2505f5cdafc9c6b4aed b1edb043231ba673a7c59cacbae28ba946435577 Ju Hyeon Park <wheredidjupark@gmail.com> 1465428105 -0700	commit: cross section changes
+b1edb043231ba673a7c59cacbae28ba946435577 9db50b6822bee15136ed8596435598d0fb7cacd7 Ju Hyeon Park <wheredidjupark@gmail.com> 1465518658 -0700	commit: changed table
+9db50b6822bee15136ed8596435598d0fb7cacd7 f03239924aed3986f589348056ff2deb9137ea02 Ju Hyeon Park <wheredidjupark@gmail.com> 1465525219 -0700	commit: added additional sidebar and navigation links
+f03239924aed3986f589348056ff2deb9137ea02 575c4c0d06bfdb8bfdb823d102bb4a5e80dcc00d Ju Hyeon Park <wheredidjupark@gmail.com> 1465660101 -0700	commit: added text content
+575c4c0d06bfdb8bfdb823d102bb4a5e80dcc00d bb0cc9d3b9cb673f83514ca728f971a84edbb7a1 Ju Hyeon Park <wheredidjupark@gmail.com> 1466014261 -0700	commit: biofiltration and annamox added
+bb0cc9d3b9cb673f83514ca728f971a84edbb7a1 14ef969b43099b480952e6964175b2ba0c6f5db9 Ju Hyeon Park <hello@jupark.co> 1466958569 -0700	commit: changed paradigm shift image
+14ef969b43099b480952e6964175b2ba0c6f5db9 0222d30bb9f0ef749a47ae2f96cb22ff31757d11 Ju Hyeon Park <hello@jupark.co> 1466960659 -0700	commit: changed form to adapt typeform
+0222d30bb9f0ef749a47ae2f96cb22ff31757d11 b0b7d244adf672f78b911e4ccf6b6fb9b6c9dda0 Ju Hyeon Park <hello@jupark.co> 1466960846 -0700	commit: changed form to adapt typeform
+b0b7d244adf672f78b911e4ccf6b6fb9b6c9dda0 4e5c030d23868e1b9a59a5a99775330b00b1b5a2 Ju Hyeon Park <hello@jupark.co> 1466961506 -0700	commit: changed form to adapt typeform
+4e5c030d23868e1b9a59a5a99775330b00b1b5a2 3962457ed54e263b089c3eee2d84b5652eca0af7 Ju Hyeon Park <hello@jupark.co> 1466962295 -0700	commit: modified typeform styling
+3962457ed54e263b089c3eee2d84b5652eca0af7 2fedc19c4462c1dd8f760e2b11131680ae34f99e Ju Hyeon Park <hello@jupark.co> 1467302835 -0700	commit: updated
+2fedc19c4462c1dd8f760e2b11131680ae34f99e 62dfe6c2d420e12c035556a316e58118e0dc39c6 Ju Hyeon Park <hello@jupark.co> 1467395988 -0700	commit: added technologies, who we are, what we do
+62dfe6c2d420e12c035556a316e58118e0dc39c6 482614d7900749ef3237c9b3cc7eb588fa96ba04 Ju Hyeon Park <hello@jupark.co> 1467399614 -0700	commit: added empty contents
+482614d7900749ef3237c9b3cc7eb588fa96ba04 8d8cb0a7175b3554f5dc2a5d98c5dc56f65c4c68 Ju Hyeon Park <hello@jupark.co> 1467399925 -0700	commit: added bkturbo, cba, eos as empty contents
+8d8cb0a7175b3554f5dc2a5d98c5dc56f65c4c68 a1acbf200d57262dd909d94cfd738e289d6f8bfe Ju Hyeon Park <hello@jupark.co> 1467403034 -0700	commit: added sitemap
+a1acbf200d57262dd909d94cfd738e289d6f8bfe 2114fa0892fd6025384a2d12508ab78cd36c52fc Ju Hyeon Park <hello@jupark.co> 1467403193 -0700	commit: fixed sitemap
+2114fa0892fd6025384a2d12508ab78cd36c52fc 4985dab64b5d7b752a18c1826bc333e49c4819d5 Ju Hyeon Park <hello@jupark.co> 1467403367 -0700	commit: fixed sitemap
+4985dab64b5d7b752a18c1826bc333e49c4819d5 0c4ad6137427ec103b7100894b96742cb1ae3078 Ju Hyeon Park <hello@jupark.co> 1467403520 -0700	commit: fixed sitemap
+0c4ad6137427ec103b7100894b96742cb1ae3078 99b8e7888411cc1a6a38c54a12733cfa93fb2749 Ju Hyeon Park <hello@jupark.co> 1467746269 -0700	commit: changed table background colors and icons
+99b8e7888411cc1a6a38c54a12733cfa93fb2749 ea53270075a68a52e82fced94406c879f2e814f7 Ju Hyeon Park <hello@jupark.co> 1467746743 -0700	commit: changed overview images' resolution
+ea53270075a68a52e82fced94406c879f2e814f7 057cd87d881a7ba2d99d3483b25b9bf6206de6a7 Ju Hyeon Park <hello@jupark.co> 1467751617 -0700	commit: added press releases blog
+057cd87d881a7ba2d99d3483b25b9bf6206de6a7 b58edec66640f11e267b1fe116d8e63dbd1f4e06 Ju Hyeon Park <hello@jupark.co> 1467760504 -0700	commit: completed blog implementation
+b58edec66640f11e267b1fe116d8e63dbd1f4e06 19def142c646814b4a61c34d8ed63ed0127ddd27 Ju Hyeon Park <hello@jupark.co> 1467760715 -0700	commit: fixed sitemap
+19def142c646814b4a61c34d8ed63ed0127ddd27 62a722dfad595684d5fecc7f5a4db0fa8a239c6c Ju Hyeon Park <hello@jupark.co> 1467763044 -0700	commit: linked pages together
+62a722dfad595684d5fecc7f5a4db0fa8a239c6c 185b4895c79e1b996828c15c5d789264e92aec21 Ju Hyeon Park <hello@jupark.co> 1467778325 -0700	commit: added view by technology feature for technologies section
+185b4895c79e1b996828c15c5d789264e92aec21 d5e582098a45bf1c70f59326a3331d55c8c6166a Ju Hyeon Park <hello@jupark.co> 1467780776 -0700	commit: updated blog.js
+d5e582098a45bf1c70f59326a3331d55c8c6166a 0bf1880ff53c8505671ab0733ae1d68415bfccc0 Ju Hyeon Park <hello@jupark.co> 1467785247 -0700	commit: fixed images' ridiculous sizes
+0bf1880ff53c8505671ab0733ae1d68415bfccc0 7d218ba987600416cb4fe4f3b63a38be65ddaa75 Ju Hyeon Park <hello@jupark.co> 1467787825 -0700	commit: updated add.html and created empty today-in-la
+7d218ba987600416cb4fe4f3b63a38be65ddaa75 5d5bfa357123fa08baf4b01fc3f99a6bcb3a29d7 Ju Hyeon Park <hello@jupark.co> 1467852291 -0700	commit: added pictures to technology sections
+5d5bfa357123fa08baf4b01fc3f99a6bcb3a29d7 e5a30040c70be178bc2051dad30dcc790f49d0cd Ju Hyeon Park <hello@jupark.co> 1467852576 -0700	commit: fixed bkturbo.jpg
+e5a30040c70be178bc2051dad30dcc790f49d0cd ae04d502fe1263c4e02ad9c1c758c8892b722832 Ju Hyeon Park <hello@jupark.co> 1467852642 -0700	commit: BKTurbo.JPG
+ae04d502fe1263c4e02ad9c1c758c8892b722832 9ca83630189b1195c93ea27d1bc9f75ff5d5bbe6 Ju Hyeon Park <hello@jupark.co> 1467852754 -0700	commit: bkturbo.jpg
+9ca83630189b1195c93ea27d1bc9f75ff5d5bbe6 2cf5c3bd04631b6fb509deee7e1392d312a5b376 Ju Hyeon Park <hello@jupark.co> 1467871998 -0700	commit: fixed links for index.html
+2cf5c3bd04631b6fb509deee7e1392d312a5b376 10d3afae026e1993beb8a6526dc36480519415e5 Ju Hyeon Park <hello@jupark.co> 1467872377 -0700	commit: testing BKTurbo.jpg
+10d3afae026e1993beb8a6526dc36480519415e5 e79e3542fb6b1e234367712fb24e6a601e6b472a Ju Hyeon Park <hello@jupark.co> 1467872407 -0700	commit: fixed BKTurbo.jpg
+e79e3542fb6b1e234367712fb24e6a601e6b472a 6b4f7536291bab901c91f455202cd87c2f82126a Ju Hyeon Park <hello@jupark.co> 1467913945 -0700	commit: added tech description styling
+6b4f7536291bab901c91f455202cd87c2f82126a 8160d7bc7aaa02d3b586e6af5c7ff99ad1e90228 Ju Hyeon Park <hello@jupark.co> 1467915121 -0700	commit: added facebook and linkedin social links
+8160d7bc7aaa02d3b586e6af5c7ff99ad1e90228 138499b9999bb579a3c41ffbd3c99a89acf9a035 Ju Hyeon Park <hello@jupark.co> 1468442118 -0700	commit: BBF changes
+138499b9999bb579a3c41ffbd3c99a89acf9a035 c2f7acb573f479d8c15a6bbed32658d2d5e81039 Ju Hyeon Park <hello@jupark.co> 1468443663 -0700	commit: made styling changes to technology descriptions
+c2f7acb573f479d8c15a6bbed32658d2d5e81039 d03a1429001ea762a91e204869ea48b03379b5e0 Ju Hyeon Park <hello@jupark.co> 1468444538 -0700	commit: fixed technologies blog section
+d03a1429001ea762a91e204869ea48b03379b5e0 8035694dfa1c9661163931af38856fc9ba004f98 Ju Hyeon Park <hello@jupark.co> 1468444720 -0700	commit: tested footer
+8035694dfa1c9661163931af38856fc9ba004f98 c3f7cc464b864e62cc112343d5b33adcbcdb5e27 Ju Hyeon Park <hello@jupark.co> 1468446366 -0700	commit: completed footer
+c3f7cc464b864e62cc112343d5b33adcbcdb5e27 47ff57336c419f29597e3813b468986bd56b1a7d Ju Hyeon Park <hello@jupark.co> 1468446514 -0700	commit: fixed sidebar bug
+47ff57336c419f29597e3813b468986bd56b1a7d 9f7a745cf57e748a8a1d68361c687af59b7f88a7 Ju Hyeon Park <hello@jupark.co> 1468448577 -0700	commit: added icon and centered biofiltration image after converting
+9f7a745cf57e748a8a1d68361c687af59b7f88a7 f88178b8a9f43488a346a4664c698debb48a0e4e Ju Hyeon Park <hello@jupark.co> 1468449525 -0700	commit: added icon
+f88178b8a9f43488a346a4664c698debb48a0e4e 7236f915564e732e068bc45ff4b930c2fa5cc884 Ju Hyeon Park <hello@jupark.co> 1468449587 -0700	commit: removed test button to toggle sidebar
+7236f915564e732e068bc45ff4b930c2fa5cc884 ba9bd56751ddb170b2c9c64da0442fa59dffebc4 Ju Hyeon Park <hello@jupark.co> 1468450351 -0700	commit: testing .icon fix
+ba9bd56751ddb170b2c9c64da0442fa59dffebc4 f9fd1a802ec323e32d4e923e5f9ae517016567bb Ju Hyeon Park <hello@jupark.co> 1468450547 -0700	commit: icon testing
+f9fd1a802ec323e32d4e923e5f9ae517016567bb 6105f3485118c99b5deacc081367af1a6992715d Ju Hyeon Park <hello@jupark.co> 1468450783 -0700	commit: fixed error displaying favicon for the website
+6105f3485118c99b5deacc081367af1a6992715d a5270c8295d50b27058941a4cec6719f902673f6 Ju Hyeon Park <hello@jupark.co> 1468452976 -0700	commit: added pictures for who-we-are and what-we-do
+a5270c8295d50b27058941a4cec6719f902673f6 3c52e70e0b16dbbe16d2035140dd1e1d9322b9c7 Ju Hyeon Park <hello@jupark.co> 1468882499 -0700	commit: made content revision based on Google Docs
+3c52e70e0b16dbbe16d2035140dd1e1d9322b9c7 82c1bbd135a00bf6d95ccecc2b6b4b75d69ccaf3 Ju Hyeon Park <hello@jupark.co> 1468954560 -0700	commit: added more technology contents
+82c1bbd135a00bf6d95ccecc2b6b4b75d69ccaf3 965a81aa3bb3e04c19a298822c3b83a3d0a59b92 Ju Hyeon Park <hello@jupark.co> 1468956569 -0700	commit: added links for energy
+965a81aa3bb3e04c19a298822c3b83a3d0a59b92 20785c56057a72ba6ae8c3c487a1775b0ae4a8a3 Ju Hyeon Park <hello@jupark.co> 1468970237 -0700	commit: deleted unnecessary files and added documentation
+20785c56057a72ba6ae8c3c487a1775b0ae4a8a3 1e37538909926172250b987ad9752fac31be1f6b Ju Hyeon Park <hello@jupark.co> 1469060171 -0700	commit: updated documentation
+1e37538909926172250b987ad9752fac31be1f6b 67b20a11e7d83211a9032e3cef408a2c68b012ed Ju Hyeon Park <hello@jupark.co> 1469060325 -0700	commit: deleted a bunch of files and modified bkt.com to bkt21.com
+67b20a11e7d83211a9032e3cef408a2c68b012ed 18f4d30ed50a4d88bbfb1a28c7075a312dd73740 Ju Hyeon Park <hello@jupark.co> 1469062423 -0700	commit: trying out team2.html
+18f4d30ed50a4d88bbfb1a28c7075a312dd73740 03dbea0e3d0abc9063d2e736cdd55dc611982fd4 Ju Hyeon Park <hello@jupark.co> 1469224254 -0700	commit: updated july 22, 2016
+03dbea0e3d0abc9063d2e736cdd55dc611982fd4 5c4a977ff5ce2e9ce793799ce137762511c3a573 Ju Hyeon Park <hello@jupark.co> 1469431920 -0700	commit: added team
+5c4a977ff5ce2e9ce793799ce137762511c3a573 e99562a6d0ae04246f62254373c236ad28b33c92 Ju Hyeon Park <hello@jupark.co> 1469432038 -0700	commit: added team
+e99562a6d0ae04246f62254373c236ad28b33c92 86451f557c74bca96a7f1f5238a91f604559a094 Ju Hyeon Park <hello@jupark.co> 1469466534 -0700	commit: fixed link
+86451f557c74bca96a7f1f5238a91f604559a094 cb5c9b110d9a6cec684db7c4e50a1e78ef709601 Ju Hyeon Park <hello@jupark.co> 1469489518 -0700	commit: fixed text error
